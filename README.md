@@ -10,16 +10,14 @@
 
 
 ## Environment Setup:
- 
-**Packages**			**Version**
+| Packages  | Version |
+| :---         |     :---:      |
+| altgraph | 0.17.3 |
+| numpy | 1.24.1 |
+| opencv-python | 4.7.0.68 |
+| pefile | 2023.2.7 |
+| Pillow | 9.4.0 |
+| pyinstaller | 5.13.0 |
+| pyinstaller-hooks-contrib | 2023.5 |
+| pywin32-ctypess | 0.2.2 |
 
-```
-altgraph 0.17.3
-numpy 1.24.1
-opencv-python 4.7.0.68
-pefile 2023.2.7
-Pillow 9.4.0
-pyinstaller 5.13.0
-pyinstaller-hooks-contrib 2023.5
-pywin32-ctypess 0.2.2
-```
